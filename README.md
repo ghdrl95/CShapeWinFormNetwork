@@ -1,5 +1,5 @@
 # CShapeWinFormNetwork
-## c 윈폼을 활용한 네트워크 통신 예제
+## cShape 윈폼을 활용한 네트워크 통신 예제
 
 - Test : 웹캠 영상 불러오는 예제 및 TCP 통신 기반의 영상 송수신 서버 구현
 - Test_Client : TCP통신 기반의 영상 송수신 클라이언트 구현
