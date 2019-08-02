@@ -1,0 +1,39 @@
+C:\Users\USER\Desktop\udpMicStream\bin\Debug\udpMicStream.exe.config
+C:\Users\USER\Desktop\udpMicStream\bin\Debug\udpMicStream.exe
+C:\Users\USER\Desktop\udpMicStream\bin\Debug\udpMicStream.pdb
+C:\Users\USER\Desktop\udpMicStream\bin\Debug\NAudio.dll
+C:\Users\USER\Desktop\udpMicStream\bin\Debug\NAudio.xml
+C:\Users\USER\Desktop\udpMicStream\obj\Debug\udpMicStream.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\udpMicStream\obj\Debug\udpMicStream.Properties.Resources.resources
+C:\Users\USER\Desktop\udpMicStream\obj\Debug\udpMicStream.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\udpMicStream\obj\Debug\udpMicStream.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\udpMicStream\obj\Debug\udpMicStream.csproj.CopyComplete
+C:\Users\USER\Desktop\udpMicStream\obj\Debug\udpMicStream.exe
+C:\Users\USER\Desktop\udpMicStream\obj\Debug\udpMicStream.pdb
+C:\Users\USER\Desktop\udpMicStream\obj\Debug\udpMicStream.Form1.resources
+C:\Users\bong\Desktop\udpMicStream\bin\Debug\udpMicStream.exe.config
+C:\Users\bong\Desktop\udpMicStream\bin\Debug\udpMicStream.exe
+C:\Users\bong\Desktop\udpMicStream\bin\Debug\udpMicStream.pdb
+C:\Users\bong\Desktop\udpMicStream\bin\Debug\NAudio.dll
+C:\Users\bong\Desktop\udpMicStream\bin\Debug\NAudio.xml
+C:\Users\bong\Desktop\udpMicStream\obj\Debug\udpMicStream.csprojAssemblyReference.cache
+C:\Users\bong\Desktop\udpMicStream\obj\Debug\udpMicStream.Form1.resources
+C:\Users\bong\Desktop\udpMicStream\obj\Debug\udpMicStream.Properties.Resources.resources
+C:\Users\bong\Desktop\udpMicStream\obj\Debug\udpMicStream.csproj.GenerateResource.cache
+C:\Users\bong\Desktop\udpMicStream\obj\Debug\udpMicStream.csproj.CoreCompileInputs.cache
+C:\Users\bong\Desktop\udpMicStream\obj\Debug\udpMicStream.csproj.CopyComplete
+C:\Users\bong\Desktop\udpMicStream\obj\Debug\udpMicStream.exe
+C:\Users\bong\Desktop\udpMicStream\obj\Debug\udpMicStream.pdb
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\bin\Debug\udpMicStream.exe.config
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\bin\Debug\udpMicStream.exe
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\bin\Debug\udpMicStream.pdb
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\bin\Debug\NAudio.dll
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\bin\Debug\NAudio.xml
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\obj\Debug\udpMicStream.csprojAssemblyReference.cache
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\obj\Debug\udpMicStream.Form1.resources
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\obj\Debug\udpMicStream.Properties.Resources.resources
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\obj\Debug\udpMicStream.csproj.GenerateResource.cache
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\obj\Debug\udpMicStream.csproj.CoreCompileInputs.cache
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\obj\Debug\udpMicStream.csproj.CopyComplete
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\obj\Debug\udpMicStream.exe
+C:\Users\bong\Desktop\c# 네트워크 수업\udpMicStream\obj\Debug\udpMicStream.pdb

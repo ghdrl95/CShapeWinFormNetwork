@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\ScreenStreaming_client\bin\Debug\ScreenStreaming_client.exe.config
+C:\Users\Administrator\source\repos\ScreenStreaming_client\bin\Debug\ScreenStreaming_client.exe
+C:\Users\Administrator\source\repos\ScreenStreaming_client\bin\Debug\ScreenStreaming_client.pdb
+C:\Users\Administrator\source\repos\ScreenStreaming_client\obj\Debug\ScreenStreaming_client.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ScreenStreaming_client\obj\Debug\ScreenStreaming_client.Form1.resources
+C:\Users\Administrator\source\repos\ScreenStreaming_client\obj\Debug\ScreenStreaming_client.Form2.resources
+C:\Users\Administrator\source\repos\ScreenStreaming_client\obj\Debug\ScreenStreaming_client.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ScreenStreaming_client\obj\Debug\ScreenStreaming_client.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ScreenStreaming_client\obj\Debug\ScreenStreaming_client.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ScreenStreaming_client\obj\Debug\ScreenStreaming_client.exe
+C:\Users\Administrator\source\repos\ScreenStreaming_client\obj\Debug\ScreenStreaming_client.pdb

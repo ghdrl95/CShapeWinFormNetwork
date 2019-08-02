@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\ScreenStreaming\bin\Debug\ScreenStreaming.exe.config
+C:\Users\Administrator\source\repos\ScreenStreaming\bin\Debug\ScreenStreaming.exe
+C:\Users\Administrator\source\repos\ScreenStreaming\bin\Debug\ScreenStreaming.pdb
+C:\Users\Administrator\source\repos\ScreenStreaming\obj\Debug\ScreenStreaming.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ScreenStreaming\obj\Debug\ScreenStreaming.Properties.Resources.resources
+C:\Users\Administrator\source\repos\ScreenStreaming\obj\Debug\ScreenStreaming.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ScreenStreaming\obj\Debug\ScreenStreaming.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ScreenStreaming\obj\Debug\ScreenStreaming.exe
+C:\Users\Administrator\source\repos\ScreenStreaming\obj\Debug\ScreenStreaming.pdb
+C:\Users\Administrator\source\repos\ScreenStreaming\obj\Debug\ScreenStreaming.AllowAllAssemblyVersionsDeserializationBinder.resources
